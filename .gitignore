@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+graph_cache/
+**/graph_cache/
+GNN/saves/
+GNN/dataset/
+Graphs/forgehls_kernels/
+eval_output/
+**/eval_output/
+progsg_runs/
